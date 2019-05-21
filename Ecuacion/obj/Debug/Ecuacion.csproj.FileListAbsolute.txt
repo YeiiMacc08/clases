@@ -1,0 +1,6 @@
+C:\Users\Yeison\source\repos\2clase\Ecuacion\bin\Debug\Ecuacion.exe.config
+C:\Users\Yeison\source\repos\2clase\Ecuacion\bin\Debug\Ecuacion.exe
+C:\Users\Yeison\source\repos\2clase\Ecuacion\bin\Debug\Ecuacion.pdb
+C:\Users\Yeison\source\repos\2clase\Ecuacion\obj\Debug\Ecuacion.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\2clase\Ecuacion\obj\Debug\Ecuacion.exe
+C:\Users\Yeison\source\repos\2clase\Ecuacion\obj\Debug\Ecuacion.pdb

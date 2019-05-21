@@ -1,0 +1,6 @@
+C:\Users\Yeison\source\repos\2clase\2clase\bin\Debug\2clase.exe.config
+C:\Users\Yeison\source\repos\2clase\2clase\bin\Debug\2clase.exe
+C:\Users\Yeison\source\repos\2clase\2clase\bin\Debug\2clase.pdb
+C:\Users\Yeison\source\repos\2clase\2clase\obj\Debug\Edad.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\2clase\2clase\obj\Debug\2clase.exe
+C:\Users\Yeison\source\repos\2clase\2clase\obj\Debug\2clase.pdb
